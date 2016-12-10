@@ -7,25 +7,25 @@
 div.bar {
     width: 30px;
     height: 30px;
-    background-color: gold;
+    background-color: #c6c6c6;
     margin-bottom: 5px;
     transition: 1s;
 }
 
 div.bar.item1:hover {
     transition: 1s;
-    width: 300px;
-    background: red;
+    width: 500px;
+    background: #656565;
 }
 
 div.bar.item2:hover {
     transition: 1s;
-    width: 200px;
-    background: red;
+    width: 300px;
+    background: #656565;
 }
 
 div.bar.item3:hover {
     transition: 1s;
     width: 100px;
-    background: red;
+    background: #656565;
 }
