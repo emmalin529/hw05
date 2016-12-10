@@ -1,0 +1,120 @@
+body {
+    background-image: url(https://s-media-cache-ak0.pinimg.com/originals/a2/b1/61/a2b161b936b429c81c415f34e3583628.jpg);
+    text-align: center;
+    width: 1400px;
+    font-family: Arial;
+}
+
+.col {
+    width: 30%;
+    height: 420px;
+    background: white;
+    margin: 50px 6px;
+    display: inline-block;
+}
+
+.price-box {
+    width: 100%;
+    height: 50%;
+    background: #304255;
+    color: white;
+    display: inline-block;
+    text-align: center;
+}
+
+.dollor {
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 8px;
+    color: #88a1a7;
+}
+
+.amount {
+    display: inline-block;
+    padding: 0px 15px;
+    font-size: 60px;
+    font-weight: 900;
+}
+
+.month {
+    display: inline-block;
+    color: #88a1a7;
+}
+
+.plan-text {
+    padding: 20px 0px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    letter-spacing: .1em;
+    font-weight: 900;
+}
+
+.bth-box {
+    text-align: center;
+    border: 1px solid;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 3px;
+    margin-top: 25px;
+    height: 20px;
+    padding-top: 6px;
+    color: #88a1a7;
+}
+
+i {
+    color: gainsboro;
+    text-align: left;
+    font-size: 1em;
+    display: block;
+    padding: 3px;
+}
+
+hr {
+    background-color: gainsboro;
+    border: 0px;
+    height: 1px;
+}
+
+[class^="li"] {
+    display: inline-block;
+    color: #304255;
+    position: relative;
+    left: 3px;
+}
+
+.limited2 {
+    position: relative;
+    left: 8px;
+}
+
+i~div {
+    display: inline-block;
+    font-size: .8em;
+    color: gainsboro;
+    text-align: left;
+    padding-top: 12px;
+}
+
+.co {
+    text-align: left;
+    position: relative;
+    width: 140px;
+    left: 35%;
+    padding-top: 10px
+}
+
+.data {
+    position: relative;
+    left: 2px;
+}
+
+.users {
+    position: relative;
+    left: 8px
+}
+
+[class^="fi"] {
+    position: relative;
+    left: 6px;
+}
